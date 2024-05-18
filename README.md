@@ -49,4 +49,5 @@ Contributions to PortSweeper are welcome. Feel free to submit issues, feature re
 
 ### License
 
-PortSweeper is released under the [MIT License](LICENSE).
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/lupusjm/PortSweeper/blob/main/LICENSE)
+
